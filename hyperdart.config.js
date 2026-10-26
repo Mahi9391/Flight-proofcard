@@ -43,6 +43,6 @@ export default {
     category: "travel",
   },
 
-  github: "",
-  demovideo: "",
+  github: "https://github.com/Mahi9391/Flight-proofcard",
+  demovideo: "https://www.youtube.com/watch?v=nqr_LnobbtM",
 };
